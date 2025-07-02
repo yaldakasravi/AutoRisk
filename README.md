@@ -64,7 +64,7 @@ AutoRiskPlus/
  Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/AutoRiskPlus.git
+git clone 
 cd AutoRiskPlus
 (Optional) Create and activate a virtual environment:
 python3 -m venv venv
